@@ -36,14 +36,6 @@ I am passionate about software development, innovation, and building efficient s
 
 <br>
 
-- 🔭 I’m currently looking for an internship or a job in software development  
-- 🌱 I’m curious and always learning new technologies  
-- 👨‍💻 Check out my projects on [my GitHub](https://github.com/AbdelkbirNA)  
-- 💬 Feel free to ask me about Java, JavaScript, PHP, or Node.js  
-- 📫 How to reach me: abdlekbir.nainiaa12@gmail.com  
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelkbir-nainiaa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -57,16 +49,6 @@ I am passionate about software development, innovation, and building efficient s
 
 - 🌿 [OrnoPlante](https://github.com/AbdelkbirNA/OrnoPlante) — Smart platform for plant discovery and care with integrated AI.  
 - 🏫 [ProjetWeb_EduSchool](https://github.com/AbdelkbirNA/ProjetWeb_EduSchool) — Web app for school management.
-
-<br>
-
-<h3 align="left">Languages & Tools:</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,php,c,react,nextjs,tailwind,nodejs,express,laravel,mysql,git,github,gitlab,vscode,postman" />
-  </a>
-</p>
 
 <br>
 
