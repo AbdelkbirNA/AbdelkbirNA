@@ -18,9 +18,6 @@ I am passionate about software development, innovation, and building efficient s
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Photoshop" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Illustrator" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="50" height="50" />
 </div>
 
 <br>
