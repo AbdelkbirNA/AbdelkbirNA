@@ -58,13 +58,6 @@ I am passionate about software development, innovation, and building efficient s
 
 <h3 align="left">GitHub Stats:</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelkbirNA&show_icons=true&theme=midnight-purple" alt="Abdelkbir's GitHub stats" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkbirNA&theme=midnight-purple" alt="GitHub Streak" />
-</div>
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkbirNA&layout=compact&theme=midnight-purple" alt="Top Languages" />
@@ -72,4 +65,3 @@ I am passionate about software development, innovation, and building efficient s
 
 <br>
 
-<p align="right">Created with 🧡 by Abdelkbir Nainiaa</p>
