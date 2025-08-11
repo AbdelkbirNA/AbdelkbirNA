@@ -15,20 +15,9 @@ I am passionate about software development, innovation, and building efficient s
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="Laravel" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" alt="GitLab" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VSCode" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="50" height="50" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Photoshop" width="50" height="50" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Illustrator" width="50" height="50" />
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="50" height="50" />
