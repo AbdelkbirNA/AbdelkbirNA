@@ -80,17 +80,7 @@ Always curious, I love learning new technologies and tackling technical challeng
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AbdelkbirNA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkbirNA&theme=midnight-purple" alt="GitHub Streak">
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/AbdelkbirNA">
-    <img src="https://github-contributor-stats.vercel.app/api?username=AbdelkbirNA&limit=3&theme=midnight-purple&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-  </a>
-</p>
 
 ---
 
