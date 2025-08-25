@@ -76,8 +76,7 @@ Always curious, I love learning new technologies and tackling technical challeng
 <p align="center">
   <a href="https://github.com/AbdelkbirNA">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkbirNA&theme=midnight-purple&layout=compact&langs_count=8" alt="Top Languages">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AbdelkbirNA&theme=midnight-purple&show_icons=true&count_private=true" alt="GitHub Stats">
-  </a>
+    
 </p>
 
 
