@@ -94,11 +94,3 @@ Always curious, I love learning new technologies and tackling technical challeng
 
 ---
 
-## ☕ Support My Work
-<p align="center">
-If you find my work valuable, consider supporting me ❤️
-<br><br>
-<a href="https://paypal.me/vrtx771">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
-</a>
-</p>
