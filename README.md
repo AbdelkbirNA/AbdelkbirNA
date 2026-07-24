@@ -1,96 +1,74 @@
-<!-- MasterHead with animated banner -->
-<p align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="100%">
-</p>
-
-<!-- Animated Side Gifs -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" />
-
-<h1 align="center">👋 Hi, I'm Abdelkbir Nainiaa</h1>
-<h3 align="center">💻 Software Engineering Student | Passionate Full-Stack Developer | Tech Explorer</h3>
+<h1 align="center">Hi, I'm Abdelkbir Nainiaa 👋</h1>
 
 <p align="center">
-I am passionate about software development, innovation, and building efficient solutions.  
-Always curious, I love learning new technologies and tackling technical challenges. 🚀
+  Software engineering student at <b>ENSAID</b> — National School of Artificial Intelligence and Data Science.<br>
+  I build full-stack web apps, and I'm currently going deeper into AI & data engineering.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelkbirNA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  📍 El Jadida, Morocco &nbsp;·&nbsp; 🌐 <a href="https://www.abdelkbirnainiaa.me">abdelkbirnainiaa.me</a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelkbir-nainiaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abdlekbir.nainiaa12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.abdelkbirnainiaa.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-## 🌍 Connect with Me
+### 🔭 What I'm up to
+
+- Studying **AI & data science** while shipping full-stack side projects
+- Building [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) — plant discovery & care platform with an AI assistant
+- Learning **QA automation** (Selenium, Postman) and cloud deployment
+- Open to internships and collaboration — reach out anytime
+
+---
+
+### 🛠️ Tech I work with
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,bash" height="42" alt="Java, Python, JavaScript, TypeScript, PHP, C, Bash" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,threejs" height="42" alt="React, Next.js, Tailwind, HTML, CSS, Sass, Three.js" />
+
+**Backend & data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,mysql,postgres,mongodb,prisma" height="42" alt="Node.js, Express, Laravel, Spring, MySQL, PostgreSQL, MongoDB, Prisma" />
+
+**Tools & infra**
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,firebase,supabase,vite,postman,figma" height="42" alt="Docker, Git, Linux, AWS, Firebase, Supabase, Vite, Postman, Figma" />
+
+---
+
+### 📌 Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) | Plant discovery & care platform with an AI assistant | JavaScript |
+| [**EduSchool**](https://github.com/AbdelkbirNA/ProjetWeb_EduSchool) | School management web app | Laravel · Blade · MySQL |
+| [**CloudCache**](https://github.com/AbdelkbirNA/CloudCache) | Cloud storage / caching experiment | HTML · JS |
+| [**test-mybestsim**](https://github.com/AbdelkbirNA/test-mybestsim) | SEO article + data dashboard for an eSIM growth case study | Python |
+| [**QAReports**](https://github.com/AbdelkbirNA/QAReports) | Automated QA test reports | HTML · Selenium |
+
+---
+
+### 📊 GitHub
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelkbir-nainiaa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/771_vrtx/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/AbdelkbirNA" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub">
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdelkbirNA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkbirNA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkbirNA&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
 
-## 🛠️ Technical Stack
-
-### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,c,py,ts,bash" height="45" />
-</p>
-
-### 🌐 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,sass,threejs" height="45" />
-</p>
-
-### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb,prisma,firebase,supabase,spring" height="45" />
-</p>
-
-### ☁️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,redhat,aws,vite,maven,postman" height="45" />
-</p>
-
-### 🎨 Design & Testing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,selenium,sentry" height="45" />
-</p>
-
----
-
-## 🚀 Featured Projects
-- 🌿 [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) — Smart platform for plant discovery and care with integrated AI.  
-- 🏫 [**ProjetWeb_EduSchool**](https://github.com/AbdelkbirNA/ProjetWeb_EduSchool) — Web app for school management.  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/AbdelkbirNA">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkbirNA&theme=midnight-purple&layout=compact&langs_count=8" alt="Top Languages">
-    
-</p>
-
-
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img width="80%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
+<p align="center"><i>Always learning. Always building.</i></p>
