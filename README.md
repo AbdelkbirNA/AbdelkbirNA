@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdelkbir Nainiaa 👋</h1>
 
 <p align="center">
-  Software engineering student at <b>ENSAID</b> — National School of Artificial Intelligence and Data Science.<br>
+  Software engineering student at <b>ENSIASD</b> — National School of Artificial Intelligence and Data Science.<br>
   I build full-stack web apps, and I'm currently going deeper into AI & data engineering.
 </p>
 
