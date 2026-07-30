@@ -1,74 +1,59 @@
-<h1 align="center">Hi, I'm Abdelkbir Nainiaa 👋</h1>
+```text
+==============================================================================
+ Abdelkbir Nainiaa · full-stack web · QA automation · DevOps
+==============================================================================
+ Studying ................ 5th year · ENSIASD — AI & Data Science
+ Based in ................ El Jadida, Morocco
+ Building ................ web apps that ship with tests and a pipeline
+ Testing ................. Robot Framework · Selenium · Postman · Allure
+ Shipping ................ Docker · Jenkins · GitHub Actions · Render
+ Open to ................. PFE internship & new-grad roles
+------------------------------------------------------------------------------
+ Profile                                                              | PASS |
+==============================================================================
+```
 
-<p align="center">
-  Software engineering student at <b>ENSIASD</b> — National School of Artificial Intelligence and Data Science.<br>
-  I build full-stack web apps, and I'm currently going deeper into AI & data engineering.
-</p>
+<a href="https://www.abdelkbirnainiaa.me"><img src="https://img.shields.io/badge/Portfolio-FFB000?style=flat-square" width="55" height="20" alt="Portfolio — abdelkbirnainiaa.me"></a>
+<a href="https://www.linkedin.com/in/abdelkbir-nainiaa"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square" width="57" height="20" alt="LinkedIn — Abdelkbir Nainiaa"></a>
+<a href="mailto:abdlekbir.nainiaa12@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square" width="41" height="20" alt="Email — abdlekbir.nainiaa12@gmail.com"></a>
 
-<p align="center">
-  📍 El Jadida, Morocco &nbsp;·&nbsp; 🌐 <a href="https://www.abdelkbirnainiaa.me">abdelkbirnainiaa.me</a>
-</p>
+## Now
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelkbir-nainiaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abdlekbir.nainiaa12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.abdelkbirnainiaa.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
+I build full-stack web apps, then make them provable — a test suite that runs in a
+container and a pipeline that runs the suite. Most students stop at "it works on my
+machine"; I'm learning to stop at "it works in CI".
 
----
+- Writing Robot Framework suites that run in Docker and report through Allure
+- Putting CI/CD behind what I build — Jenkins locally, GitHub Actions on OrnoPlante
+- Finishing my engineering cycle at ENSIASD and looking for a PFE placement
 
-### 🔭 What I'm up to
+## Selected work
 
-- Studying **AI & data science** while shipping full-stack side projects
-- Building [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) — plant discovery & care platform with an AI assistant
-- Learning **QA automation** (Selenium, Postman) and cloud deployment
-- Open to internships and collaboration — reach out anytime
-
----
-
-### 🛠️ Tech I work with
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,bash" height="42" alt="Java, Python, JavaScript, TypeScript, PHP, C, Bash" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,threejs" height="42" alt="React, Next.js, Tailwind, HTML, CSS, Sass, Three.js" />
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,mysql,postgres,mongodb,prisma" height="42" alt="Node.js, Express, Laravel, Spring, MySQL, PostgreSQL, MongoDB, Prisma" />
-
-**Tools & infra**
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,firebase,supabase,vite,postman,figma" height="42" alt="Docker, Git, Linux, AWS, Firebase, Supabase, Vite, Postman, Figma" />
-
----
-
-### 📌 Selected projects
-
-| Project | What it is | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) | Plant discovery & care platform with an AI assistant | JavaScript |
-| [**EduSchool**](https://github.com/AbdelkbirNA/ProjetWeb_EduSchool) | School management web app | Laravel · Blade · MySQL |
-| [**CloudCache**](https://github.com/AbdelkbirNA/CloudCache) | Cloud storage / caching experiment | HTML · JS |
-| [**test-mybestsim**](https://github.com/AbdelkbirNA/test-mybestsim) | SEO article + data dashboard for an eSIM growth case study | Python |
-| [**QAReports**](https://github.com/AbdelkbirNA/QAReports) | Automated QA test reports | HTML · Selenium |
+| [**QAReports**](https://github.com/AbdelkbirNA/QAReports) | Test suite that runs itself: Jenkins checks out, `docker compose` runs the Robot Framework specs, Allure publishes the report | Robot Framework · Docker · Jenkins · Allure |
+| [**CloudCache**](https://github.com/AbdelkbirNA/CloudCache) | Distributed cache system that measures what Redis actually saves you against a cold database — [live demo](https://cloudcache-frontend.onrender.com) | Node · Express · Redis · MongoDB · Render |
+| [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) | Identify an ornamental plant from a photo, then track your collection. ML image model behind a Next.js app | Next.js · Prisma · MySQL · Docker |
+| [**EduSchool**](https://github.com/AbdelkbirNA/ProjetWeb_EduSchool) | School management app — students, staff, classes | Laravel · Blade · MySQL |
+| [**MyBestSim**](https://github.com/AbdelkbirNA/test-mybestsim) | eSIM growth case study: SEO article plus the data dashboard backing it | Python |
 
----
+## Stack
 
-### 📊 GitHub
+```text
+languages   Java · Python · JavaScript · TypeScript · PHP · C
+frontend    React · Next.js · Tailwind · Sass
+backend     Node · Express · Laravel · Spring · Prisma
+data        PostgreSQL · MySQL · MongoDB · Redis
+testing     Robot Framework · Selenium · Postman · Allure
+devops      Docker · Jenkins · GitHub Actions · Render · Linux
+```
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdelkbirNA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkbirNA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+## Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkbirNA&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AbdelkbirNA&hide_border=true&background=0D1117&stroke=30363D&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AbdelkbirNA&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=B37800&fire=B37800&currStreakLabel=B37800&sideLabels=57606A&dates=57606A&currStreakNum=1F2328&sideNums=1F2328">
+  <img src="https://streak-stats.demolab.com/?user=AbdelkbirNA&hide_border=true" width="495" height="195" alt="Abdelkbir Nainiaa's GitHub contribution streak">
+</picture>
 
----
-
-<p align="center"><i>Always learning. Always building.</i></p>
+<sub>More at <a href="https://www.abdelkbirnainiaa.me">abdelkbirnainiaa.me</a></sub>
