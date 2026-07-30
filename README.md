@@ -48,12 +48,4 @@ testing     Robot Framework · Selenium · Postman · Allure
 devops      Docker · Jenkins · GitHub Actions · Render · Linux
 ```
 
-## Streak
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AbdelkbirNA&hide_border=true&background=0D1117&stroke=30363D&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AbdelkbirNA&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=B37800&fire=B37800&currStreakLabel=B37800&sideLabels=57606A&dates=57606A&currStreakNum=1F2328&sideNums=1F2328">
-  <img src="https://streak-stats.demolab.com/?user=AbdelkbirNA&hide_border=true" width="495" height="195" alt="Abdelkbir Nainiaa's GitHub contribution streak">
-</picture>
-
 <sub>More at <a href="https://www.abdelkbirnainiaa.me">abdelkbirnainiaa.me</a></sub>
