@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFB000&height=180&section=header&text=Abdelkbir%20Nainiaa&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20DXC%20Technology&descAlignY=58&descSize=16" width="100%" alt="Abdelkbir Nainiaa — Software Engineer @ DXC Technology">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=600&lines=I+build+full-stack+apps...;...then+make+them+provable+in+CI.;Selenium+%C2%B7+Cucumber+%C2%B7+Robot+Framework;Reverse+engineering+%C2%B7+crypto+%C2%B7+CTFs" alt="I build full-stack apps, then make them provable in CI">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=600&lines=Full-stack+Software+Engineer;QA+%26+Test+Automation;Selenium+%C2%B7+Cucumber+%C2%B7+Robot+Framework;Shipped+with+tests+and+a+pipeline" alt="Full-stack Software Engineer · QA & Test Automation">
 
 <br><br>
 
@@ -15,16 +15,16 @@
 
 ---
 
-### `$ whoami`
+### About me
 
 I build full-stack apps, then make them provable — a test suite that runs in a container
 and a pipeline that runs the suite. *"It works on my machine"* isn't done; *"it works in CI"* is.
 
 - 🧪 Building web test automation in Java — Selenium, Cucumber BDD, Page Object Model
 - 🚀 Putting CI/CD behind what I build — Jenkins, GitHub Actions, Docker
-- 🔓 Solving CTFs on the side and publishing the write-ups
+- 📊 Writing Robot Framework suites that run in Docker and report through Allure
 
-### `$ ls ./projects`
+### Featured projects
 
 <table>
 <tr>
@@ -77,14 +77,18 @@ and a pipeline that runs the suite. *"It works on my machine"* isn't done; *"it 
 </tr>
 </table>
 
-### `$ cat ./security/writeups`
+### Testing toolkit
 
-| | Write-up | Highlights |
-|:-:|---|---|
-| 🏁 | [**NNS CTF 2026**](https://github.com/AbdelkbirNA/nnsctf-2026-writeups) | Full reverse-engineering track **(9/9)** + crypto — DWARF-as-bytecode, Erlang hot code loading, nRF5340 BLE firmware, shared-prime RSA |
-| 🎰 | [**Overflow The Jackpot**](https://github.com/AbdelkbirNA/overflow-the-jackpot-ctf) | TryHackMe — crypto, web, forensics, detection engineering, boot2root |
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium">
+  <img src="https://img.shields.io/badge/Cucumber-0D1117?style=for-the-badge&logo=cucumber&logoColor=23D96C" alt="Cucumber">
+  <img src="https://img.shields.io/badge/Robot%20Framework-0D1117?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework">
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
+  <img src="https://img.shields.io/badge/Allure-0D1117?style=for-the-badge&logoColor=FFB000" alt="Allure">
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-0D1117?style=for-the-badge" alt="Page Object Model">
+</p>
 
-### `$ stack --all`
+### Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,ts,js,react,nextjs,nodejs,express,spring,laravel,tailwind,astro&theme=dark" alt="Java, Python, TypeScript, JavaScript, React, Next.js, Node, Express, Spring, Laravel, Tailwind, Astro"><br><br>
