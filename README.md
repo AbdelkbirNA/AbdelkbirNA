@@ -1,13 +1,13 @@
 ```text
 ==============================================================================
- Abdelkbir Nainiaa · full-stack web · QA automation · DevOps
+ Abdelkbir Nainiaa · full-stack · QA automation · security
 ==============================================================================
- Studying ................ 5th year · ENSIASD — AI & Data Science
+ Working ................. Software Engineer @ DXC Technology
  Based in ................ El Jadida, Morocco
- Building ................ web apps that ship with tests and a pipeline
- Testing ................. Robot Framework · Selenium · Postman · Allure
+ Building ................ web & mobile apps that ship with tests and a pipeline
+ Testing ................. Selenium · Cucumber · Robot Framework · Allure
  Shipping ................ Docker · Jenkins · GitHub Actions · Render
- Open to ................. PFE internship & new-grad roles
+ Breaking ................ CTFs — reverse engineering · crypto · web
 ------------------------------------------------------------------------------
  Profile                                                              | PASS |
 ==============================================================================
@@ -19,32 +19,40 @@
 
 ## Now
 
-I build full-stack web apps, then make them provable — a test suite that runs in a
-container and a pipeline that runs the suite. Most students stop at "it works on my
-machine"; I'm learning to stop at "it works in CI".
+I build full-stack apps, then make them provable — a test suite that runs in a
+container and a pipeline that runs the suite. "It works on my machine" isn't done;
+"it works in CI" is.
 
-- Writing Robot Framework suites that run in Docker and report through Allure
-- Putting CI/CD behind what I build — Jenkins locally, GitHub Actions on OrnoPlante
-- Finishing my engineering cycle at ENSIASD and looking for a PFE placement
+- Building web test automation in Java — Selenium, Cucumber BDD, Page Object Model
+- Putting CI/CD behind what I build — Jenkins, GitHub Actions, Docker
+- Solving CTFs on the side and publishing the write-ups
 
 ## Selected work
 
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [**QAReports**](https://github.com/AbdelkbirNA/QAReports) | Test suite that runs itself: Jenkins checks out, `docker compose` runs the Robot Framework specs, Allure publishes the report | Robot Framework · Docker · Jenkins · Allure |
-| [**CloudCache**](https://github.com/AbdelkbirNA/CloudCache) | Distributed cache system that measures what Redis actually saves you against a cold database — [live demo](https://cloudcache-frontend.onrender.com) | Node · Express · Redis · MongoDB · Render |
-| [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) | Identify an ornamental plant from a photo, then track your collection. ML image model behind a Next.js app | Next.js · Prisma · MySQL · Docker |
-| [**EduSchool**](https://github.com/AbdelkbirNA/ProjetWeb_EduSchool) | School management app — students, staff, classes | Laravel · Blade · MySQL |
-| [**MyBestSim**](https://github.com/AbdelkbirNA/test-mybestsim) | eSIM growth case study: SEO article plus the data dashboard backing it | Python |
+| [**Automation framework**](https://github.com/AbdelkbirNA/pfa-dxc-automation-framework) | Web test automation skeleton built at DXC — BDD scenarios over a Page Object Model | Java · Selenium · Cucumber · Maven |
+| [**Table IV reproduction**](https://github.com/AbdelkbirNA/table-iv-reproduction) | Do classic test criteria catch bugs in LLM-generated code? Reproduces a paper's statement, branch and mutation adequacy results on real HumanEval faults | Python · mutation testing |
+| [**CloudCache**](https://github.com/AbdelkbirNA/CloudCache) | Distributed cache that measures what Redis actually saves you against a cold database — [live demo](https://cloudcache-frontend.onrender.com) | Node · Express · Redis · MongoDB |
+| [**Africa ResQ**](https://github.com/AbdelkbirNA/africa-resq) | Emergency-response rover: rescue dashboard, survivor-signal fusion, explainable risk engine, risk-aware route planning | Python |
+| [**OrnoPlante**](https://github.com/AbdelkbirNA/OrnoPlante) | Identify an ornamental plant from a photo, then track your collection | Next.js · Prisma · MySQL · Docker |
+
+## Security
+
+| Write-up | Highlights |
+| --- | --- |
+| [**NNS CTF 2026**](https://github.com/AbdelkbirNA/nnsctf-2026-writeups) | Full reverse-engineering track (9/9) plus crypto — DWARF-as-bytecode, Erlang hot code loading, nRF5340 BLE firmware, shared-prime RSA |
+| [**Overflow The Jackpot**](https://github.com/AbdelkbirNA/overflow-the-jackpot-ctf) | TryHackMe — crypto, web, forensics, detection engineering, boot2root |
 
 ## Stack
 
 ```text
-languages   Java · Python · JavaScript · TypeScript · PHP · C
-frontend    React · Next.js · Tailwind · Sass
+languages   Java · Python · JavaScript · TypeScript · PHP · Dart · C
+frontend    React · Next.js · Astro · Tailwind
 backend     Node · Express · Laravel · Spring · Prisma
 data        PostgreSQL · MySQL · MongoDB · Redis
-testing     Robot Framework · Selenium · Postman · Allure
+testing     Selenium · Cucumber · Robot Framework · Postman · Allure
 devops      Docker · Jenkins · GitHub Actions · Render · Linux
 ```
 
